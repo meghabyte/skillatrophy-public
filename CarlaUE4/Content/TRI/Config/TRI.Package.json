@@ -1,0 +1,446 @@
+{
+    "maps": [
+      {
+        "path": "/Game/TRI/Maps/VehicleAudio",
+        "name": "VehicleSoundTest",
+        "use_carla_materials": true
+      },
+      {
+	      "path": "/Game/TRI/Maps",
+	      "name": "Skidpad_1km",
+	      "use_carla_materials": false
+      },
+      {
+	      "path": "/Game/TRI/Maps",
+	      "name": "Stanford",
+	      "use_carla_materials": false
+      },
+      {
+	      "path": "/Game/TRI/Maps",
+	      "name": "Stanford/Sublevels/Stanford_Foliage",
+	      "use_carla_materials": false
+      },
+      {
+	      "path": "/Game/TRI/Maps",
+	      "name": "ThunderHill",
+	      "use_carla_materials": false
+      },
+      {
+	      "path": "/Game/TRI/Maps",
+	      "name": "LongHighway3",
+	      "use_carla_materials": false
+      },
+      {
+	      "path": "/Game/TRI/Maps",
+        "name": "LongHighway3/Sublevels/LongHighway3_TerrainLevel",
+        "use_carla_materials": false
+      },
+      {
+	      "path": "/Game/TRI/Maps/2022_03_RoadProps",
+	      "name": "SampleMapWithProps",
+	      "use_carla_materials": false
+      },
+      {
+        "path": "/Game/TRI/Maps",
+        "name": "OvalTrafficLights",
+        "use_carla_materials": false
+      },
+      {
+        "path": "/Game/TRI/Maps",
+        "name": "OvalTrafficLights2",
+        "use_carla_materials": false
+      }
+    ],
+    "props": [
+      {
+        "name": "tri_stopsign",
+        "path": "/Game/TRI/Props/StopSign/stopsign_joined.stopsign_joined",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_TreePine_1",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_TreePine_1.SM_TreePine_1",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_1_Lod1",
+        "path": "/Game/Carla/Static/Vegetation/Trees/LODs/SM_TreePine_1_Lod1.SM_TreePine_1_Lod1",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_1_Lod2",
+        "path": "/Game/Carla/Static/Vegetation/Trees/LODs/SM_TreePine_1_Lod2.SM_TreePine_1_Lod2",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_1_Lod3",
+        "path": "/Game/Carla/Static/Vegetation/Trees/LODs/SM_TreePine_1_Lod3.SM_TreePine_1_Lod3",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_2",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_TreePine_2.SM_TreePine_2",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_2_Lod1",
+        "path": "/Game/Carla/Static/Vegetation/Trees/LODs/SM_TreePine_2_Lod1.SM_TreePine_2_Lod1",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_2_Lod2",
+        "path": "/Game/Carla/Static/Vegetation/Trees/LODs/SM_TreePine_2_Lod2.SM_TreePine_2_Lod2",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_2_Lod3",
+        "path": "/Game/Carla/Static/Vegetation/Trees/LODs/SM_TreePine_2_Lod3.SM_TreePine_2_Lod3",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_3",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_TreePine_3.SM_TreePine_3",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_3_Lod1",
+        "path": "/Game/Carla/Static/Vegetation/Trees/LODs/SM_TreePine_3_Lod1.SM_TreePine_3_Lod1",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_3_Lod2",
+        "path": "/Game/Carla/Static/Vegetation/Trees/LODs/SM_TreePine_3_Lod2.SM_TreePine_3_Lod2",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_TreePine_3_Lod3",
+        "path": "/Game/Carla/Static/Vegetation/Trees/LODs/SM_TreePine_3_Lod3.SM_TreePine_3_Lod3",
+        "size": "Medium"
+      },
+      {
+        "name": "carla_SM_Acer_01",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Acer_01.SM_Acer_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Acer_02",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Acer_02.SM_Acer_02",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Acer_Red_01",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Acer_Red_01.SM_Acer_Red_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Aporosa",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Aporosa.SM_Aporosa",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Aporosa_base",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Aporosa_base.SM_Aporosa_base",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Ash_01",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Ash_01.SM_Ash_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Ash_02",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Ash_02.SM_Ash_02",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Bush",
+        "path": "/Game/Carla/Static/Vegetation/Bushes/SM_Bush.SM_Bush",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_CoconutPalm_01",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_CoconutPalm_01.SM_CoconutPalm_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_CoconutPalm_02",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_CoconutPalm_02.SM_CoconutPalm_02",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_CoconutPalm_02_base",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_CoconutPalm_02_base.SM_CoconutPalm_02_base",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Cypress",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Cypress.SM_Cypress",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Cypress_Bush",
+        "path": "/Game/Carla/Static/Vegetation/Bushes/SM_Cypress_Bush.SM_Cypress_Bush",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Cypress_Small",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Cypress_Small.SM_Cypress_Small",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Dandelion",
+        "path": "/Game/Carla/Static/Vegetation/Plants_and_Flowers/SM_Dandelion.SM_Dandelion",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_FanPalm_01",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_FanPalm_01.SM_FanPalm_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_FanPalm_02",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_FanPalm_02.SM_FanPalm_02",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_FanPalm_03",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_FanPalm_03.SM_FanPalm_03",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_hayBale",
+        "path": "/Game/Carla/Static/Dynamic/Farm/SM_hayBale.SM_hayBale",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Hedge_01",
+        "path": "/Game/Carla/Static/Vegetation/Bushes/SM_Hedge_01.SM_Hedge_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_hedge_T03_24",
+        "path": "/Game/Carla/Static/Vegetation/Unique/SM_hedge_T03_24.SM_hedge_T03_24",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_hedge_T03_25",
+        "path": "/Game/Carla/Static/Vegetation/Unique/SM_hedge_T03_25.SM_hedge_T03_25",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_hedge_T03_26",
+        "path": "/Game/Carla/Static/Vegetation/Unique/SM_hedge_T03_26.SM_hedge_T03_26",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Japanese_Maple_01",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Japanese_Maple_01.SM_Japanese_Maple_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Japanese_Maple_02",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Japanese_Maple_02.SM_Japanese_Maple_02",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Japanese_Maple_03",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Japanese_Maple_03.SM_Japanese_Maple_03",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Japanese_Maple_04",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Japanese_Maple_04.SM_Japanese_Maple_04",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_longLeavesBush_01",
+        "path": "/Game/Carla/Static/Vegetation/Bushes/SM_longLeavesBush_01.SM_longLeavesBush_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_longLeavesBush_02",
+        "path": "/Game/Carla/Static/Vegetation/Bushes/SM_longLeavesBush_02.SM_longLeavesBush_02",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_longLeavesBush_03",
+        "path": "/Game/Carla/Static/Vegetation/Bushes/SM_longLeavesBush_03.SM_longLeavesBush_03",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_oldBush_01",
+        "path": "/Game/Carla/Static/Vegetation/Bushes/SM_oldBush_01.SM_oldBush_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_oldBush_02",
+        "path": "/Game/Carla/Static/Vegetation/Bushes/SM_oldBush_02.SM_oldBush_02",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_oldBush_03",
+        "path": "/Game/Carla/Static/Vegetation/Bushes/SM_oldBush_03.SM_oldBush_03",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_plantPot_bloom",
+        "path": "/Game/Carla/Static/Vegetation/Plants_and_Flowers/SM_plantPot_bloom.SM_plantPot_bloom",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_PlantpotM2",
+        "path": "/Game/Carla/Static/Static/SM_PlantpotM2.SM_PlantpotM2",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_PlantpotM3",
+        "path": "/Game/Carla/Static/Static/SM_PlantpotM3.SM_PlantpotM3",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Platanus01",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Platanus01.SM_Platanus01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Platanus02",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Platanus02.SM_Platanus02",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Platanus03",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Platanus03.SM_Platanus03",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Rushes",
+        "path": "/Game/Carla/Static/Vegetation/Plants_and_Flowers/SM_Rushes.SM_Rushes",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Rushes_2",
+        "path": "/Game/Carla/Static/Vegetation/Plants_and_Flowers/SM_Rushes_2.SM_Rushes_2",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Rushes_Lod",
+        "path": "/Game/Carla/Static/Vegetation/Plants_and_Flowers/LODs/SM_Rushes_Lod.SM_Rushes_Lod",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Sassafras_01",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Sassafras_01.SM_Sassafras_01",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Sassafras_02",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Sassafras_02.SM_Sassafras_02",
+        "size": "Small"
+      },
+      {
+        "name": "carla_SM_Sassafras_03",
+        "path": "/Game/Carla/Static/Vegetation/Trees/SM_Sassafras_03.SM_Sassafras_03",
+        "size": "Small"
+      },
+      {
+        "name": "tri_trafficwarning_arrowleft",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/ArrowSigns/tri_trafficwarning_arrowleft.tri_trafficwarning_arrowleft",
+        "size": "Medium"
+      },
+      {
+        "name": "tri_trafficwarning_arrowright",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/ArrowSigns/tri_trafficwarning_arrowright.tri_trafficwarning_arrowright",
+        "size": "Medium"
+      },
+      {
+        "name": "tri_sign_speedlimit_05",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_05.tri_sign_speedlimit_05",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_10",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_10.tri_sign_speedlimit_10",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_15",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_15.tri_sign_speedlimit_15",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_20",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_20.tri_sign_speedlimit_20",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_25",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_25.tri_sign_speedlimit_25",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_30",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_30.tri_sign_speedlimit_30",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_35",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_35.tri_sign_speedlimit_35",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_40",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_40.tri_sign_speedlimit_40",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_45",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_45.tri_sign_speedlimit_45",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_50",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_50.tri_sign_speedlimit_50",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_55",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_55.tri_sign_speedlimit_55",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_60",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_60.tri_sign_speedlimit_60",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_65",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_65.tri_sign_speedlimit_65",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_70",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_70.tri_sign_speedlimit_70",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_75",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_75.tri_sign_speedlimit_75",
+        "size": "Small"
+      },
+      {
+        "name": "tri_sign_speedlimit_80",
+        "path": "/Game/TRI/Props/2022_03_RoadProps/SpeedLimitSigns/tri_sign_speedlimit_80.tri_sign_speedlimit_80",
+        "size": "Small"
+      },
+      {
+        "name": "M_Arrow",
+        "path": "/Game/TRI/Props/RaceLine/M_Arrow.M_Arrow",
+        "size": "Small"
+      },
+      {
+        "name": "M_Dash",
+        "path": "/Game/TRI/Props/RaceLine/M_Dash.M_Dash",
+        "size": "Small"
+      }
+    ]
+  }

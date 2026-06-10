@@ -1,0 +1,35 @@
+{
+  "maps": [
+    {
+      "path": "/Game/Carla/Maps",
+      "name": "Town06",
+      "use_carla_materials": true
+    },
+    {
+      "path": "/Game/Carla/Maps",
+      "name": "Town07",
+      "use_carla_materials": true
+    },
+    {
+      "path": "/Game/Carla/Maps/Town11",
+      "name": "Town11",
+      "use_carla_materials": true
+    },
+    {
+      "path": "/Game/Carla/Maps/Town12",
+      "name": "Town12",
+      "use_carla_materials": true
+    },
+    {
+      "path": "/Game/Carla/Maps/Town13",
+      "name": "Town13",
+      "use_carla_materials": true
+    },
+    {
+      "path": "/Game/Carla/Maps/Town15",
+      "name": "Town15",
+      "use_carla_materials": true
+    }
+  ],
+  "props": []
+}
